@@ -4,8 +4,8 @@ spring:
 
   datasource:
     url: jdbc:postgresql://localhost:5432/legacy_bank
-    username: sreejitha
-    password:
+    username: postgres
+    password: postgres
 
   jpa:
     hibernate:
