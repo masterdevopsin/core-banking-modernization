@@ -9,3 +9,11 @@
 target/
 .terraform/
 **/.terraform/*
+
+# Terraform local state and variables
+*.tfstate
+*.tfstate.*
+*.tfvars
+!*.tfvars.example
+.terraform/
+**/.terraform/*
