@@ -7,3 +7,5 @@
 
 # Build output
 target/
+.terraform/
+**/.terraform/*
